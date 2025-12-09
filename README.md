@@ -1,7 +1,7 @@
 # social-media-platform
 
 if more people are working on the same branch always do
-    git pull --merge
+    git pull --rebase
 before 
     git push
 to load any commits from the remote branch (if it is ahead of your local branch)
